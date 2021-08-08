@@ -8,3 +8,6 @@ hablaremos de su vida
 anda aplicando al master de Business Analytics
 hoy es técnico en telmex
 ha superado un buen de cosas
+
+**********
+Estos cambios se hicieron por error pero no queremos que se vayan al repo
