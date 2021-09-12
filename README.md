@@ -9,5 +9,6 @@ Un blog increible para el curso de git y github de Platzi
 * Trucos del profe
 * creado por el increíble Omar Hernández 
 * Incluye ejemplos en Win linux y mac
+* disponible para todas las edades
 
 Y como amable recordatorio: **Este readme.md es un chiste**. diseñado para el ejemplo. mira [**nuestro curso**](http://https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "nuestro curso"):
